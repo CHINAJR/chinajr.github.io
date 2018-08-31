@@ -19,11 +19,12 @@ sidebar-avatar: /img/qingzi.jpg      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     纪榕说o
+zhihu_username:     爱你的自由
 github_username:    CHINAJR
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username:   ChengChinajr
+instagram_username:   ChinaJR
 
 
 
