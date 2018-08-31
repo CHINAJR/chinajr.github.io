@@ -1,7 +1,7 @@
 # Site settings
 title: CHINAJR Blog
 SEOTitle: 纪榕的博客 | CHINAJR Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/qingzi.jpg
 email: chengjirong3@163.com
 description: "Every failure is leading towards success."
 keyword: "CHINAJR, CHINAJR Blog, 纪榕的博客, chengjirong, 程纪榕"
@@ -12,15 +12,15 @@ github_repo: "https://github.com/CHINAJR/chinajr.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/qingzi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
+zhihu_username:     纪榕说o
+github_username:    CHINAJR
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
